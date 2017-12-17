@@ -14,5 +14,5 @@ The folder you're mounting in previous command (```input_data```) should contain
 You could try to run container without building it, just pull it from docker hub:
 ```# docker pull madrugado/babel-baseline```
 
-## Sumbission
+## Submission
 Submission must be in form of zip-archive containing file [```meta.json```](./meta.json). The sample submission is included into repository as ```sample_submission.zip```.

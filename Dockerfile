@@ -43,7 +43,7 @@ RUN wget http://data.statmt.org/rsennrich/wmt16_systems/en-de/truecase-model.en
 RUN wget http://data.statmt.org/rsennrich/wmt16_systems/en-de/vocab.de.json
 RUN wget http://data.statmt.org/rsennrich/wmt16_systems/en-de/vocab.en.json
 
-RUN wget https://gist.githubusercontent.com/madrugado/d8a24410ff45c36fa1980614521cbc9e/raw/7af26fff498f2cf7ddbd73c11a219ece33ff1b5e/translate.sh
+RUN wget https://gist.githubusercontent.com/madrugado/d8a24410ff45c36fa1980614521cbc9e/raw/a4871cdb03f56f4a841b4a21a8348567b591a83e/translate.sh
 RUN chmod a+x translate.sh
 
 # playground will contain user defined scripts, it should be run as:

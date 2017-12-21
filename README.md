@@ -15,4 +15,4 @@ You could try to run container without building it, just pull it from docker hub
 ```# docker pull madrugado/babel-baseline```
 
 ## Submission
-Submission must be in form of zip-archive containing file [```meta.json```](./meta.json). The sample submission is included into this repository as ```sample_submission.zip```.
+Submission must be in form of zip-archive containing file [```metadata.json```](./metadata.json). The sample submission is included into this repository as ```sample_submission.zip```.
